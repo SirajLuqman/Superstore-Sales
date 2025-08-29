@@ -27,12 +27,18 @@ The dataset used for this analysis is the "Superstore Dataset", a public dataset
   5. **Overall Metrics:** The Superstore produced more than RM2.2 million sales and RM286,000 profit in the 2014-2017.
 
 ## 6. The Functioning of the BI Dashboard 
-The interactive dashboard is designed for easy data exploration. Here is the link to view the dashboard and check its dunctionality https://lookerstudio.google.com/reporting/436611ce-15f2-4db0-808f-f4febae33e48.
+The interactive dashboard is designed for easy data exploration. Here is the link to view the dashboard and check its functionality https://lookerstudio.google.com/reporting/436611ce-15f2-4db0-808f-f4febae33e48.
 Users can:
   1. **Filter Data:** Use the slicers provided to filter the data by Requesting Region, Product category and date range..
   2. **Drill Down:** The interactive displays are dynamically updated to implement the chosen filters so that customers could drill down to the particular parts of the data.
   3. **Identify Trends:** Time-series chart allows the user to identify trends and sales pattern over time.
-  4. **Compare Performance:** The sales, and profit performance of the various categories and regions can be easily compared with comparisons by the user.
+  4. **KPI Scorecards:** provide a brief high level overview of the key business measures total sales, profit, orders and customers.
+  5. **Sales by Category (Bar Chart):** compare pits Technology, Furniture and Office Supplies head to head and you can see at a glance which one is performing best.
+  6. **Sales by Region (Pie Chart):** spends a moment on total sales by each geographic region, with best-performing markets such as the West and the East at the fore.
+  7. **Sales Over Time (Line Chart):** measures sales between 2014 and 2017 and indicates highs and lows that can state a possible seasonal effect or possibly a sales promotion.
+  8. **Sales by City (Table):** provides a list of the hottest of the hot cities ranked by sales, with a specialist examination of urban performance in the market.
+  9. **Interactive Filters:** allows dynamic filtering of all the visualizations, by both Region and Category to provide a more in-depth, deep analysis.
+  5. **Compare Performance:** The sales, and profit performance of the various categories and regions can be easily compared with comparisons by the user.
 
 ## 7. Acknowledgement 
 We would like to extend our sincere thanks to **SIR NAZMIRUL IZZAD BIN NASSIR** for their guidance and support throughout this project. We also acknowledge the public dataset from **Kaggle**, which was instrumental in this analysis.
