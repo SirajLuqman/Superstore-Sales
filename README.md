@@ -28,7 +28,7 @@ The dataset used for this analysis is the "Superstore Dataset", a public dataset
   6. **Key Improvement:** On increasing the brand presence and distribution points within the Central and South regions with regionalized promotions and partnerships.
 
 ## 6. The Functioning of the BI Dashboard 
-The interactive dashboard is designed for easy data exploration. Here is the link to view the dashboard and check its functionality https://lookerstudio.google.com/reporting/436611ce-15f2-4db0-808f-f4febae33e48.
+The interactive dashboard is designed for easy data exploration. Here is the link to view the dashboard and check its functionality **https://lookerstudio.google.com/s/vblvOgWGacU**.
 Users can:
   1. **Filter Data:** Use the slicers provided to filter the data by Requesting Region, Product category and date range..
   2. **Drill Down:** The interactive displays are dynamically updated to implement the chosen filters so that customers could drill down to the particular parts of the data.
