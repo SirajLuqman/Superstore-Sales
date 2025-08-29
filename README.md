@@ -27,7 +27,8 @@ The dataset used for this analysis is the "Superstore Dataset", a public dataset
   5. **Overall Metrics:** The Superstore produced more than RM2.2 million sales and RM286,000 profit in the 2014-2017.
 
 ## 6. The Functioning of the BI Dashboard 
-The interactive dashboard is designed for easy data exploration. Here is the link to view the dashboard and check its dunctionality https://lookerstudio.google.com/reporting/436611ce-15f2-4db0-808f-f4febae33e48. Users can:
+The interactive dashboard is designed for easy data exploration. Here is the link to view the dashboard and check its dunctionality https://lookerstudio.google.com/reporting/436611ce-15f2-4db0-808f-f4febae33e48.
+Users can:
   1. **Filter Data:** Use the slicers provided to filter the data by Requesting Region, Product category and date range..
   2. **Drill Down:** The interactive displays are dynamically updated to implement the chosen filters so that customers could drill down to the particular parts of the data.
   3. **Identify Trends:** Time-series chart allows the user to identify trends and sales pattern over time.
