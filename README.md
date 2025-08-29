@@ -1,4 +1,5 @@
-## 1. Project Title: Superstore Sales & Profit Analysis
+## Project Title: Superstore Sales & Profit Analysis
+
 
 ## 1. Executive Summary:
 The project within the scope of the project will entail the analysis of the Superstore sales data in order to reveal the main business insight and make decisions based on the analyses. With a Business Intelligence (BI) tool **Looker Studio - Google** we were able to analyze trends in sales, profitability by state and categories and the performance of different cities. As it was realized, the largest category that has the highest sales is Technology and the West and East markets are the major revenue generators. The interactive dashboard obtained is a complete data structure of how the Superstore performed in 2021-24.
