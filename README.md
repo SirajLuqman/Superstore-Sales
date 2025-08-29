@@ -1,8 +1,8 @@
-## Project Title: Superstore Sales & Profit Analysis
+## Project Title: Superstore Sales & Profit Analysis - A Data-Driven Approach 
 
 
 ## 1. Executive Summary:
-The project within the scope of the project will entail the analysis of the Superstore sales data in order to reveal the main business insight and make decisions based on the analyses. With a Business Intelligence (BI) tool **Looker Studio - Google** we were able to analyze trends in sales, profitability by state and categories and the performance of different cities. As it was realized, the largest category that has the highest sales is Technology and the West and East markets are the major revenue generators. The interactive dashboard obtained is a complete data structure of how the Superstore performed in 2014-17.
+The project within the scope of the project will entail the analysis of the Superstore sales data in order to reveal the main business insight and make decisions based on the analyses. With a Business Intelligence (BI) tool **Looker Studio - Google** we were able to analyze trends in sales, profitability by state and categories and the performance of different cities. As it was realized, the largest category that has the highest sales is Technology and the West and East markets are the major revenue generators. The interactive dashboard obtained is a complete data structure of how the Superstore performed in **Jan 2,2014 - Dec 30,2017**.
 
 ## 2. Problem Statement:
 The superstore retail company seeks to have a deeper insight into the effectiveness of its sales and profitability. The main issues relate to knowing the areas where the performance is above average, time-trend analysis of sales and opportunities regarding strategic development. This analysis aims at giving a clear and pictorial view of the health of the business in order to make wise decisions by stakeholders.
@@ -24,7 +24,7 @@ The dataset used for this analysis is the "Superstore Dataset", a public dataset
   2. **Regional Performance:** Contribution to more than 60 percent of the overall sales the West and the East are the best revenue earners.
   3. **Sales Over Time:** In the time-series, the activity of sales is regular with periodic peaks showing that there is a necessity to have a closer look at the seasonality or promotional factors.
   4. **Top Cities:** The three cities which have most sales are New York City, Los Angeles and Seattle.
-  5. **Overall Metrics:** The Superstore produced more than RM2.2 million sales and RM286,000 profit in the 2014-2017
+  5. **Overall Metrics:** The Superstore produced more than RM2.2 million sales and RM286,000 profit in the **Jan 2, 2014 - Dec 30, 2017**
   6. **Key Improvement:** On increasing the brand presence and distribution points within the Central and South regions with regionalized promotions and partnerships.
 
 ## 6. The Functioning of the BI Dashboard 
